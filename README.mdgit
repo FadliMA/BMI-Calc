@@ -1,0 +1,1 @@
+"# BMI-Project"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/fadlimafdhal07-hash/BMI-Project.gitgit push -u origin main
