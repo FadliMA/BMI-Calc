@@ -3,7 +3,7 @@
 Aplikasi desktop Kalkulator Body Mass Index (BMI) sederhana yang dibangun menggunakan Java, Maven, dan JavaFX (SceneBuilder).
 
 ## 📸 Screenshot Aplikasi
-![Screenshot Kalkulator BMI](screenshot.png)
+![Screenshot Kalkulator BMI]({FA531EB5-BF23-4E89-9E01-86BD77B4272E}.png)
 
 ## 💻 Persyaratan Sistem
 * Java Development Kit (JDK) 21
