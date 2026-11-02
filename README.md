@@ -1,2 +1,0 @@
-"# BMI-Project" 
-"# BMI-Calc" 
